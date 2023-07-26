@@ -1,0 +1,757 @@
+Month,Week,Product,Qty,Promo type,Data Type
+Aug-20,3/8/2020,AA,"  1,911 ",,History Data
+Aug-20,3/8/2020,EO,"  9,562 ",Promo Discount GT + Target Drive,History Data
+Aug-20,3/8/2020,G5,  976 ,,History Data
+Aug-20,3/8/2020,HM,  467 ,Promo Discount GT,History Data
+Aug-20,3/8/2020,MB,  2 ,,History Data
+Aug-20,3/8/2020,RM,  375 ,Promo Discount GT,History Data
+Aug-20,10/8/2020,AA,"  1,546 ",,History Data
+Aug-20,10/8/2020,EO,"  9,636 ",Promo Discount GT + Target Drive,History Data
+Aug-20,10/8/2020,G5,  413 ,,History Data
+Aug-20,10/8/2020,HM,  102 ,Promo Discount GT,History Data
+Aug-20,10/8/2020,MB,  2 ,,History Data
+Aug-20,10/8/2020,RM,  376 ,Promo Discount GT,History Data
+Aug-20,17/8/2020,AA,"  1,072 ",,History Data
+Aug-20,17/8/2020,EO,"  7,797 ",Promo Discount GT,History Data
+Aug-20,17/8/2020,G5,"  1,578 ",,History Data
+Aug-20,17/8/2020,HM,  127 ,Promo Discount GT,History Data
+Aug-20,17/8/2020,MB,  -   ,,History Data
+Aug-20,17/8/2020,RM,  179 ,Promo Discount GT,History Data
+Aug-20,24/8/2020,AA,"  1,590 ",,History Data
+Aug-20,24/8/2020,EO,"  11,190 ",Promo Discount GT,History Data
+Aug-20,24/8/2020,G5,  463 ,,History Data
+Aug-20,24/8/2020,HM,  64 ,Promo Discount GT,History Data
+Aug-20,24/8/2020,MB,  1 ,,History Data
+Aug-20,24/8/2020,RM,  36 ,Promo Discount GT,History Data
+Aug-20,31/8/2020,AA,"  1,760 ",,History Data
+Aug-20,31/8/2020,EO,"  9,313 ",Promo Discount GT,History Data
+Aug-20,31/8/2020,G5,  532 ,,History Data
+Aug-20,31/8/2020,HM,  189 ,Promo Discount GT,History Data
+Aug-20,31/8/2020,MB,  -   ,,History Data
+Aug-20,31/8/2020,RM,  103 ,Promo Discount GT,History Data
+Sep-20,7/9/2020,AA,"  1,801 ",Promo Discount GT + Target Drive,History Data
+Sep-20,7/9/2020,EO,"  10,589 ",Promo Discount GT,History Data
+Sep-20,7/9/2020,G5,"  1,596 ",Consumer Promo,History Data
+Sep-20,7/9/2020,HM,  184 ,Promo Discount GT,History Data
+Sep-20,7/9/2020,MB,  -   ,,History Data
+Sep-20,7/9/2020,RM,  155 ,,History Data
+Sep-20,14/9/2020,AA,"  1,907 ",Promo Discount GT + Target Drive,History Data
+Sep-20,14/9/2020,EO,"  12,250 ",Promo Discount GT,History Data
+Sep-20,14/9/2020,G5,"  1,614 ",Consumer Promo,History Data
+Sep-20,14/9/2020,HM,  142 ,Promo Discount GT,History Data
+Sep-20,14/9/2020,MB,  -   ,,History Data
+Sep-20,14/9/2020,RM,  586 ,,History Data
+Sep-20,21/9/2020,AA,"  1,385 ",Promo Discount GT + Target Drive,History Data
+Sep-20,21/9/2020,EO,"  8,787 ",Promo Discount GT + Target Drive,History Data
+Sep-20,21/9/2020,G5,  938 ,Consumer Promo,History Data
+Sep-20,21/9/2020,HM,  45 ,,History Data
+Sep-20,21/9/2020,MB,  6 ,,History Data
+Sep-20,21/9/2020,RM,  641 ,,History Data
+Sep-20,28/9/2020,AA,"  1,233 ",Promo Discount GT + Target Drive,History Data
+Sep-20,28/9/2020,EO,"  8,413 ",Promo Discount GT + Target Drive,History Data
+Sep-20,28/9/2020,G5,"  1,411 ",Consumer Promo,History Data
+Sep-20,28/9/2020,HM,  178 ,,History Data
+Sep-20,28/9/2020,MB,  1 ,,History Data
+Sep-20,28/9/2020,RM,  173 ,,History Data
+Oct-20,5/10/2020,AA,"  1,537 ",Promo Discount GT,History Data
+Oct-20,5/10/2020,EO,"  8,806 ",Promo Discount GT,History Data
+Oct-20,5/10/2020,G5,"  1,211 ",Consumer Promo,History Data
+Oct-20,5/10/2020,HM,  153 ,Consumer Promo,History Data
+Oct-20,5/10/2020,MB,  1 ,,History Data
+Oct-20,5/10/2020,RM,"  1,109 ",,History Data
+Oct-20,12/10/2020,AA,  987 ,Promo Discount GT,History Data
+Oct-20,12/10/2020,EO,"  8,111 ",Promo Discount GT,History Data
+Oct-20,12/10/2020,G5,  718 ,Consumer Promo,History Data
+Oct-20,12/10/2020,HM,  493 ,Consumer Promo,History Data
+Oct-20,12/10/2020,MB,  2 ,,History Data
+Oct-20,12/10/2020,RM,  442 ,,History Data
+Oct-20,19/10/2020,AA,"  1,078 ",Promo Discount GT,History Data
+Oct-20,19/10/2020,EO,"  7,529 ",Promo Discount GT,History Data
+Oct-20,19/10/2020,G5,  593 ,Consumer Promo,History Data
+Oct-20,19/10/2020,HM,  125 ,Promo Discount GT,History Data
+Oct-20,19/10/2020,MB,  -   ,,History Data
+Oct-20,19/10/2020,RM,  290 ,Promo Kasir MT,History Data
+Oct-20,26/10/2020,AA,  673 ,Promo Discount GT,History Data
+Oct-20,26/10/2020,EO,"  5,625 ",Promo Discount GT,History Data
+Oct-20,26/10/2020,G5,  814 ,Consumer Promo,History Data
+Oct-20,26/10/2020,HM,  85 ,Promo Discount GT,History Data
+Oct-20,26/10/2020,MB,  2 ,,History Data
+Oct-20,26/10/2020,RM,  390 ,Promo Kasir MT,History Data
+Nov-20,2/11/2020,AA,  949 ,,History Data
+Nov-20,2/11/2020,EO,"  7,468 ",Promo Discount GT,History Data
+Nov-20,2/11/2020,G5,  955 ,Consumer Promo,History Data
+Nov-20,2/11/2020,HM,  320 ,,History Data
+Nov-20,2/11/2020,MB,  1 ,,History Data
+Nov-20,2/11/2020,RM,  485 ,Promo Discount GT,History Data
+Nov-20,9/11/2020,AA,  835 ,,History Data
+Nov-20,9/11/2020,EO,"  7,757 ",Promo Discount GT,History Data
+Nov-20,9/11/2020,G5,  891 ,Consumer Promo,History Data
+Nov-20,9/11/2020,HM,  105 ,,History Data
+Nov-20,9/11/2020,MB,  4 ,,History Data
+Nov-20,9/11/2020,RM,  113 ,Promo Discount GT,History Data
+Nov-20,16/11/2020,AA,"  1,173 ",,History Data
+Nov-20,16/11/2020,EO,"  9,601 ",Promo Discount GT,History Data
+Nov-20,16/11/2020,G5,  565 ,Consumer Promo,History Data
+Nov-20,16/11/2020,HM,  367 ,Promo Discount GT,History Data
+Nov-20,16/11/2020,MB,  3 ,,History Data
+Nov-20,16/11/2020,RM,  230 ,Promo Discount GT,History Data
+Nov-20,23/11/2020,AA,"  1,851 ",,History Data
+Nov-20,23/11/2020,EO,"  10,722 ",Promo Discount GT,History Data
+Nov-20,23/11/2020,G5,  963 ,Consumer Promo,History Data
+Nov-20,23/11/2020,HM,  663 ,Promo Discount GT,History Data
+Nov-20,23/11/2020,MB,  1 ,,History Data
+Nov-20,23/11/2020,RM,  24 ,Promo Discount GT,History Data
+Nov-20,30/11/2020,AA,"  1,556 ",,History Data
+Nov-20,30/11/2020,EO,"  11,298 ",Promo Discount GT,History Data
+Nov-20,30/11/2020,G5,  670 ,Consumer Promo,History Data
+Nov-20,30/11/2020,HM,  494 ,Promo Discount GT,History Data
+Nov-20,30/11/2020,MB,  1 ,,History Data
+Nov-20,30/11/2020,RM,  56 ,Promo Discount GT,History Data
+Dec-20,7/12/2020,AA,  657 ,,History Data
+Dec-20,7/12/2020,EO,"  3,998 ",Promo Discount GT,History Data
+Dec-20,7/12/2020,G5,"  1,352 ",Consumer Promo,History Data
+Dec-20,7/12/2020,HM,  475 ,Promo Kasir MT,History Data
+Dec-20,7/12/2020,MB,  -   ,,History Data
+Dec-20,7/12/2020,RM,  50 ,Promo Discount GT,History Data
+Dec-20,14/12/2020,AA,"  1,057 ",,History Data
+Dec-20,14/12/2020,EO,"  7,938 ",Promo Discount GT,History Data
+Dec-20,14/12/2020,G5,  285 ,Consumer Promo,History Data
+Dec-20,14/12/2020,HM,  95 ,Promo Kasir MT,History Data
+Dec-20,14/12/2020,MB,  1 ,,History Data
+Dec-20,14/12/2020,RM,  106 ,Promo Discount GT,History Data
+Dec-20,21/12/2020,AA,"  1,242 ",,History Data
+Dec-20,21/12/2020,EO,"  5,138 ",Promo Discount GT,History Data
+Dec-20,21/12/2020,G5,  524 ,Consumer Promo,History Data
+Dec-20,21/12/2020,HM,  24 ,Promo Discount GT,History Data
+Dec-20,21/12/2020,MB,  2 ,,History Data
+Dec-20,21/12/2020,RM,  51 ,Promo Discount GT,History Data
+Dec-20,28/12/2020,AA,  730 ,,History Data
+Dec-20,28/12/2020,EO,"  8,608 ",Promo Discount GT,History Data
+Dec-20,28/12/2020,G5,  772 ,Consumer Promo,History Data
+Dec-20,28/12/2020,HM,  260 ,Promo Discount GT,History Data
+Dec-20,28/12/2020,MB,  1 ,,History Data
+Dec-20,28/12/2020,RM,  95 ,Promo Discount GT,History Data
+Jan-21,4/1/2021,AA,  444 ,,History Data
+Jan-21,4/1/2021,EO,"  4,686 ",Promo Discount GT,History Data
+Jan-21,4/1/2021,G5,  177 ,,History Data
+Jan-21,4/1/2021,HM,  264 ,Consumer Promo,History Data
+Jan-21,4/1/2021,MB,  6 ,Consumer Promo,History Data
+Jan-21,4/1/2021,RM,  408 ,Consumer Promo,History Data
+Jan-21,11/1/2021,AA,  464 ,,History Data
+Jan-21,11/1/2021,EO,"  4,393 ",Promo Discount GT,History Data
+Jan-21,11/1/2021,G5,  520 ,,History Data
+Jan-21,11/1/2021,HM,  203 ,Consumer Promo,History Data
+Jan-21,11/1/2021,MB,  8 ,Consumer Promo,History Data
+Jan-21,11/1/2021,RM,  583 ,Consumer Promo,History Data
+Jan-21,18/1/2021,AA,  377 ,,History Data
+Jan-21,18/1/2021,EO,"  4,721 ",Promo Discount GT + Target Drive,History Data
+Jan-21,18/1/2021,G5,  865 ,,History Data
+Jan-21,18/1/2021,HM,  207 ,Promo Discount GT,History Data
+Jan-21,18/1/2021,MB,  1 ,,History Data
+Jan-21,18/1/2021,RM,  42 ,Consumer Promo,History Data
+Jan-21,25/1/2021,AA,  449 ,,History Data
+Jan-21,25/1/2021,EO,"  5,057 ",Promo Discount GT + Target Drive,History Data
+Jan-21,25/1/2021,G5,  446 ,,History Data
+Jan-21,25/1/2021,HM,  137 ,Promo Discount GT,History Data
+Jan-21,25/1/2021,MB,  -   ,,History Data
+Jan-21,25/1/2021,RM,  328 ,Consumer Promo,History Data
+Feb-21,1/2/2021,AA,  322 ,,History Data
+Feb-21,1/2/2021,EO,"  3,214 ",,History Data
+Feb-21,1/2/2021,G5,"  2,081 ",,History Data
+Feb-21,1/2/2021,HM,  652 ,Consumer Promo,History Data
+Feb-21,1/2/2021,MB,  3 ,,History Data
+Feb-21,1/2/2021,RM,  163 ,Consumer Promo,History Data
+Feb-21,8/2/2021,AA,  240 ,,History Data
+Feb-21,8/2/2021,EO,"  4,849 ",,History Data
+Feb-21,8/2/2021,G5,  648 ,,History Data
+Feb-21,8/2/2021,HM,  197 ,Consumer Promo,History Data
+Feb-21,8/2/2021,MB,  -   ,,History Data
+Feb-21,8/2/2021,RM,  85 ,Consumer Promo,History Data
+Feb-21,15/2/2021,AA,  627 ,,History Data
+Feb-21,15/2/2021,EO,"  3,897 ",,History Data
+Feb-21,15/2/2021,G5,  762 ,,History Data
+Feb-21,15/2/2021,HM,  241 ,Consumer Promo,History Data
+Feb-21,15/2/2021,MB,  1 ,,History Data
+Feb-21,15/2/2021,RM,  573 ,Consumer Promo,History Data
+Feb-21,22/2/2021,AA,  625 ,Promo Discount GT + Target Drive,History Data
+Feb-21,22/2/2021,EO,"  4,986 ",Promo Discount GT,History Data
+Feb-21,22/2/2021,G5,  502 ,,History Data
+Feb-21,22/2/2021,HM,  796 ,Promo Discount GT,History Data
+Feb-21,22/2/2021,MB,  -   ,Consumer Promo,History Data
+Feb-21,22/2/2021,RM,  146 ,Consumer Promo,History Data
+Mar-21,1/3/2021,AA,  395 ,Promo Discount GT,History Data
+Mar-21,1/3/2021,EO,"  6,083 ",Promo Discount GT,History Data
+Mar-21,1/3/2021,G5,"  3,090 ",,History Data
+Mar-21,1/3/2021,HM,  243 ,Consumer Promo,History Data
+Mar-21,1/3/2021,MB,  2 ,,History Data
+Mar-21,1/3/2021,RM,  175 ,Consumer Promo,History Data
+Mar-21,8/3/2021,AA,  420 ,Promo Discount GT,History Data
+Mar-21,8/3/2021,EO,"  4,754 ",Promo Discount GT,History Data
+Mar-21,8/3/2021,G5,"  1,583 ",,History Data
+Mar-21,8/3/2021,HM,  224 ,Consumer Promo,History Data
+Mar-21,8/3/2021,MB,  1 ,,History Data
+Mar-21,8/3/2021,RM,  182 ,Consumer Promo,History Data
+Mar-21,15/3/2021,AA,  519 ,Promo Discount GT,History Data
+Mar-21,15/3/2021,EO,"  7,424 ",Promo Discount GT,History Data
+Mar-21,15/3/2021,G5,  626 ,,History Data
+Mar-21,15/3/2021,HM,  168 ,Consumer Promo,History Data
+Mar-21,15/3/2021,MB,  12 ,,History Data
+Mar-21,15/3/2021,RM,  182 ,Consumer Promo,History Data
+Mar-21,22/3/2021,AA,  595 ,Promo Discount GT,History Data
+Mar-21,22/3/2021,EO,"  13,750 ",Promo Discount GT,History Data
+Mar-21,22/3/2021,G5,"  1,834 ",Promo Kasir MT,History Data
+Mar-21,22/3/2021,HM,  301 ,Promo Discount GT,History Data
+Mar-21,22/3/2021,MB,  -   ,,History Data
+Mar-21,22/3/2021,RM,  413 ,Promo Kasir MT,History Data
+Mar-21,29/3/2021,AA,  849 ,Promo Discount GT,History Data
+Mar-21,29/3/2021,EO,"  10,377 ",Promo Discount GT,History Data
+Mar-21,29/3/2021,G5,"  1,803 ",Promo Kasir MT,History Data
+Mar-21,29/3/2021,HM,  198 ,Promo Discount GT,History Data
+Mar-21,29/3/2021,MB,  -   ,,History Data
+Mar-21,29/3/2021,RM,  300 ,Promo Kasir MT,History Data
+Apr-21,5/4/2021,AA,  474 ,Promo Discount GT,History Data
+Apr-21,5/4/2021,EO,"  5,744 ",Promo Discount GT,History Data
+Apr-21,5/4/2021,G5,"  2,159 ",,History Data
+Apr-21,5/4/2021,HM,  780 ,Promo Discount GT,History Data
+Apr-21,5/4/2021,MB,  2 ,Consumer Promo,History Data
+Apr-21,5/4/2021,RM,  550 ,Consumer Promo,History Data
+Apr-21,12/4/2021,AA,  601 ,Promo Discount GT,History Data
+Apr-21,12/4/2021,EO,"  5,858 ",Promo Discount GT,History Data
+Apr-21,12/4/2021,G5,"  1,607 ",,History Data
+Apr-21,12/4/2021,HM,  367 ,Promo Discount GT,History Data
+Apr-21,12/4/2021,MB,  -   ,Consumer Promo,History Data
+Apr-21,12/4/2021,RM,  381 ,Consumer Promo,History Data
+Apr-21,19/4/2021,AA,"  1,266 ",Promo Discount GT,History Data
+Apr-21,19/4/2021,EO,"  7,183 ",Promo Discount GT,History Data
+Apr-21,19/4/2021,G5,"  3,938 ",,History Data
+Apr-21,19/4/2021,HM,  446 ,Promo Discount GT,History Data
+Apr-21,19/4/2021,MB,  11 ,,History Data
+Apr-21,19/4/2021,RM,  320 ,Consumer Promo,History Data
+Apr-21,26/4/2021,AA,"  1,480 ",Promo Discount GT,History Data
+Apr-21,26/4/2021,EO,"  9,990 ",Promo Discount GT,History Data
+Apr-21,26/4/2021,G5,"  1,838 ",,History Data
+Apr-21,26/4/2021,HM,  377 ,Promo Discount GT,History Data
+Apr-21,26/4/2021,MB,  3 ,,History Data
+Apr-21,26/4/2021,RM,  550 ,Consumer Promo,History Data
+May-21,3/5/2021,AA,  975 ,Promo Discount GT,History Data
+May-21,3/5/2021,EO,"  9,934 ",Promo Discount GT,History Data
+May-21,3/5/2021,G5,"  4,063 ",Consumer Promo,History Data
+May-21,3/5/2021,HM,  189 ,Consumer Promo,History Data
+May-21,3/5/2021,MB,  10 ,Consumer Promo,History Data
+May-21,3/5/2021,RM,"  1,019 ",Consumer Promo,History Data
+May-21,10/5/2021,AA,  154 ,Promo Discount GT,History Data
+May-21,10/5/2021,EO,"  3,703 ",Promo Discount GT,History Data
+May-21,10/5/2021,G5,  837 ,Consumer Promo,History Data
+May-21,10/5/2021,HM,  46 ,Consumer Promo,History Data
+May-21,10/5/2021,MB,  2 ,Consumer Promo,History Data
+May-21,10/5/2021,RM,  64 ,Consumer Promo,History Data
+May-21,17/5/2021,AA,  649 ,Promo Discount GT,History Data
+May-21,17/5/2021,EO,"  8,305 ",Promo Discount GT,History Data
+May-21,17/5/2021,G5,"  2,820 ",,History Data
+May-21,17/5/2021,HM,  376 ,Consumer Promo,History Data
+May-21,17/5/2021,MB,  3 ,,History Data
+May-21,17/5/2021,RM,"  1,450 ",Consumer Promo,History Data
+May-21,24/5/2021,AA,  519 ,Promo Discount GT,History Data
+May-21,24/5/2021,EO,"  6,926 ",Promo Discount GT,History Data
+May-21,24/5/2021,G5,  945 ,,History Data
+May-21,24/5/2021,HM,  170 ,Consumer Promo,History Data
+May-21,24/5/2021,MB,  1 ,,History Data
+May-21,24/5/2021,RM,  337 ,Consumer Promo,History Data
+May-21,31/5/2021,AA,  805 ,Promo Discount GT,History Data
+May-21,31/5/2021,EO,"  7,597 ",Promo Discount GT,History Data
+May-21,31/5/2021,G5,"  2,799 ",,History Data
+May-21,31/5/2021,HM,  175 ,Consumer Promo,History Data
+May-21,31/5/2021,MB,  1 ,,History Data
+May-21,31/5/2021,RM,  861 ,Consumer Promo,History Data
+Jun-21,7/6/2021,AA,  797 ,Promo Discount GT + Target Drive,History Data
+Jun-21,7/6/2021,EO,"  8,851 ",Promo Discount GT,History Data
+Jun-21,7/6/2021,G5,  740 ,,History Data
+Jun-21,7/6/2021,HM,  592 ,Promo Discount GT,History Data
+Jun-21,7/6/2021,MB,  1 ,Consumer Promo,History Data
+Jun-21,7/6/2021,RM,  757 ,Promo Kasir MT,History Data
+Jun-21,14/6/2021,AA,  768 ,Promo Discount GT + Target Drive,History Data
+Jun-21,14/6/2021,EO,"  6,607 ",Promo Discount GT,History Data
+Jun-21,14/6/2021,G5,"  4,272 ",,History Data
+Jun-21,14/6/2021,HM,  554 ,Promo Discount GT,History Data
+Jun-21,14/6/2021,MB,  2 ,Consumer Promo,History Data
+Jun-21,14/6/2021,RM,  599 ,Promo Kasir MT,History Data
+Jun-21,21/6/2021,AA,  376 ,Promo Discount GT,History Data
+Jun-21,21/6/2021,EO,"  5,864 ",Promo Discount GT + Target Drive,History Data
+Jun-21,21/6/2021,G5,  426 ,,History Data
+Jun-21,21/6/2021,HM,  92 ,Consumer Promo,History Data
+Jun-21,21/6/2021,MB,  3 ,,History Data
+Jun-21,21/6/2021,RM,  384 ,Consumer Promo,History Data
+Jun-21,28/6/2021,AA,  432 ,Promo Discount GT,History Data
+Jun-21,28/6/2021,EO,"  5,057 ",Promo Discount GT + Target Drive,History Data
+Jun-21,28/6/2021,G5,"  2,339 ",,History Data
+Jun-21,28/6/2021,HM,  527 ,Consumer Promo,History Data
+Jun-21,28/6/2021,MB,  -   ,,History Data
+Jun-21,28/6/2021,RM,  854 ,Consumer Promo,History Data
+Jul-21,5/7/2021,AA,  726 ,Promo Discount GT,History Data
+Jul-21,5/7/2021,EO,"  7,260 ",Promo Discount GT,History Data
+Jul-21,5/7/2021,G5,"  2,330 ",,History Data
+Jul-21,5/7/2021,HM,  346 ,,History Data
+Jul-21,5/7/2021,MB,  2 ,Consumer Promo,History Data
+Jul-21,5/7/2021,RM,"  1,478 ",,History Data
+Jul-21,12/7/2021,AA,  687 ,Promo Discount GT,History Data
+Jul-21,12/7/2021,EO,"  6,676 ",Promo Discount GT,History Data
+Jul-21,12/7/2021,G5,"  1,877 ",,History Data
+Jul-21,12/7/2021,HM,  141 ,,History Data
+Jul-21,12/7/2021,MB,  -   ,Consumer Promo,History Data
+Jul-21,12/7/2021,RM,  767 ,,History Data
+Jul-21,19/7/2021,AA,  618 ,,History Data
+Jul-21,19/7/2021,EO,"  8,600 ",Promo Discount GT,History Data
+Jul-21,19/7/2021,G5,"  2,273 ",,History Data
+Jul-21,19/7/2021,HM,  59 ,Promo Discount GT,History Data
+Jul-21,19/7/2021,MB,  1 ,,History Data
+Jul-21,19/7/2021,RM,"  1,570 ",Promo Discount GT,History Data
+Jul-21,26/7/2021,AA,  634 ,,History Data
+Jul-21,26/7/2021,EO,"  9,332 ",Promo Discount GT,History Data
+Jul-21,26/7/2021,G5,"  3,422 ",,History Data
+Jul-21,26/7/2021,HM,  179 ,Promo Discount GT,History Data
+Jul-21,26/7/2021,MB,  -   ,,History Data
+Jul-21,26/7/2021,RM,  406 ,Promo Discount GT,History Data
+Aug-21,2/8/2021,AA,  904 ,Promo Discount GT + Target Drive,History Data
+Aug-21,2/8/2021,EO,"  9,417 ",Promo Discount GT,History Data
+Aug-21,2/8/2021,G5,"  3,922 ",,History Data
+Aug-21,2/8/2021,HM,  176 ,Consumer Promo,History Data
+Aug-21,2/8/2021,MB,  -   ,,History Data
+Aug-21,2/8/2021,RM,"  1,438 ",Promo Discount GT,History Data
+Aug-21,9/8/2021,AA,  647 ,Promo Discount GT + Target Drive,History Data
+Aug-21,9/8/2021,EO,"  9,082 ",Promo Discount GT,History Data
+Aug-21,9/8/2021,G5,  505 ,,History Data
+Aug-21,9/8/2021,HM,  208 ,Consumer Promo,History Data
+Aug-21,9/8/2021,MB,  -   ,,History Data
+Aug-21,9/8/2021,RM,  261 ,Promo Discount GT,History Data
+Aug-21,16/8/2021,AA,  455 ,Promo Discount GT,History Data
+Aug-21,16/8/2021,EO,"  9,297 ",Promo Discount GT,History Data
+Aug-21,16/8/2021,G5,  734 ,Promo Kasir MT,History Data
+Aug-21,16/8/2021,HM,  167 ,Promo Discount GT,History Data
+Aug-21,16/8/2021,MB,  -   ,Consumer Promo,History Data
+Aug-21,16/8/2021,RM,  333 ,Promo Discount GT,History Data
+Aug-21,23/8/2021,AA,  669 ,Promo Discount GT,History Data
+Aug-21,23/8/2021,EO,"  9,053 ",Promo Discount GT,History Data
+Aug-21,23/8/2021,G5,"  2,045 ",Promo Kasir MT,History Data
+Aug-21,23/8/2021,HM,  416 ,Promo Discount GT,History Data
+Aug-21,23/8/2021,MB,  -   ,Consumer Promo,History Data
+Aug-21,23/8/2021,RM,  680 ,Promo Discount GT,History Data
+Aug-21,30/8/2021,AA,  660 ,Promo Discount GT,History Data
+Aug-21,30/8/2021,EO,"  11,011 ",Promo Discount GT,History Data
+Aug-21,30/8/2021,G5,"  2,323 ",Promo Kasir MT,History Data
+Aug-21,30/8/2021,HM,  256 ,Promo Discount GT,History Data
+Aug-21,30/8/2021,MB,  1 ,Consumer Promo,History Data
+Aug-21,30/8/2021,RM,  176 ,Promo Discount GT,History Data
+Sep-21,6/9/2021,AA,  585 ,,History Data
+Sep-21,6/9/2021,EO,"  8,522 ",Promo Discount GT,History Data
+Sep-21,6/9/2021,G5,"  1,140 ",,History Data
+Sep-21,6/9/2021,HM,  372 ,,History Data
+Sep-21,6/9/2021,MB,  1 ,Consumer Promo,History Data
+Sep-21,6/9/2021,RM,  226 ,Promo Discount GT,History Data
+Sep-21,13/9/2021,AA,  487 ,,History Data
+Sep-21,13/9/2021,EO,"  8,811 ",Promo Discount GT,History Data
+Sep-21,13/9/2021,G5,"  1,314 ",,History Data
+Sep-21,13/9/2021,HM,  756 ,,History Data
+Sep-21,13/9/2021,MB,  3 ,Consumer Promo,History Data
+Sep-21,13/9/2021,RM,  205 ,Promo Discount GT,History Data
+Sep-21,20/9/2021,AA,  871 ,Promo Discount GT + Target Drive,History Data
+Sep-21,20/9/2021,EO,"  10,447 ",Promo Discount GT,History Data
+Sep-21,20/9/2021,G5,"  1,050 ",,History Data
+Sep-21,20/9/2021,HM,"  1,195 ",Promo Discount GT,History Data
+Sep-21,20/9/2021,MB,  1 ,,History Data
+Sep-21,20/9/2021,RM,  486 ,Promo Kasir MT,History Data
+Sep-21,27/9/2021,AA,  842 ,Promo Discount GT + Target Drive,History Data
+Sep-21,27/9/2021,EO,"  9,302 ",Promo Discount GT,History Data
+Sep-21,27/9/2021,G5,"  1,385 ",,History Data
+Sep-21,27/9/2021,HM,"  1,243 ",Promo Discount GT,History Data
+Sep-21,27/9/2021,MB,  -   ,,History Data
+Sep-21,27/9/2021,RM,  633 ,Promo Kasir MT,History Data
+Oct-21,4/10/2021,AA,  979 ,Promo Discount GT,History Data
+Oct-21,4/10/2021,EO,"  11,540 ",Promo Discount GT + Target Drive,History Data
+Oct-21,4/10/2021,G5,"  1,805 ",,History Data
+Oct-21,4/10/2021,HM,  443 ,Promo Discount GT,History Data
+Oct-21,4/10/2021,MB,  1 ,,History Data
+Oct-21,4/10/2021,RM,  225 ,Promo Discount GT,History Data
+Oct-21,11/10/2021,AA,  665 ,Promo Discount GT,History Data
+Oct-21,11/10/2021,EO,"  10,179 ",Promo Discount GT + Target Drive,History Data
+Oct-21,11/10/2021,G5,"  1,347 ",,History Data
+Oct-21,11/10/2021,HM,  496 ,Promo Discount GT,History Data
+Oct-21,11/10/2021,MB,  -   ,,History Data
+Oct-21,11/10/2021,RM,  360 ,Promo Discount GT,History Data
+Oct-21,18/10/2021,AA,  647 ,Promo Discount GT,History Data
+Oct-21,18/10/2021,EO,"  10,207 ",Promo Discount GT,History Data
+Oct-21,18/10/2021,G5,"  1,966 ",,History Data
+Oct-21,18/10/2021,HM,"  2,031 ",Promo Discount GT,History Data
+Oct-21,18/10/2021,MB,  1 ,Consumer Promo,History Data
+Oct-21,18/10/2021,RM,  523 ,Promo Discount GT,History Data
+Oct-21,25/10/2021,AA,  692 ,Promo Discount GT,History Data
+Oct-21,25/10/2021,EO,"  7,158 ",Promo Discount GT,History Data
+Oct-21,25/10/2021,G5,  438 ,,History Data
+Oct-21,25/10/2021,HM,  684 ,Promo Discount GT,History Data
+Oct-21,25/10/2021,MB,  1 ,Consumer Promo,History Data
+Oct-21,25/10/2021,RM,  364 ,Promo Discount GT,History Data
+Nov-21,1/11/2021,AA,"  1,296 ",Promo Discount GT,History Data
+Nov-21,1/11/2021,EO,"  12,886 ",Promo Discount GT,History Data
+Nov-21,1/11/2021,G5,  727 ,,History Data
+Nov-21,1/11/2021,HM,  337 ,Promo Kasir MT,History Data
+Nov-21,1/11/2021,MB,  2 ,Consumer Promo,History Data
+Nov-21,1/11/2021,RM,  554 ,Promo Discount GT,History Data
+Nov-21,8/11/2021,AA,"  1,219 ",Promo Discount GT,History Data
+Nov-21,8/11/2021,EO,"  10,270 ",Promo Discount GT,History Data
+Nov-21,8/11/2021,G5,"  1,091 ",,History Data
+Nov-21,8/11/2021,HM,  363 ,Promo Kasir MT,History Data
+Nov-21,8/11/2021,MB,  -   ,Consumer Promo,History Data
+Nov-21,8/11/2021,RM,  633 ,Promo Discount GT,History Data
+Nov-21,15/11/2021,AA,  962 ,Promo Discount GT,History Data
+Nov-21,15/11/2021,EO,"  10,542 ",Promo Discount GT,History Data
+Nov-21,15/11/2021,G5,"  1,105 ",,History Data
+Nov-21,15/11/2021,HM,  343 ,Promo Kasir MT,History Data
+Nov-21,15/11/2021,MB,  1 ,Consumer Promo,History Data
+Nov-21,15/11/2021,RM,  293 ,Promo Discount GT,History Data
+Nov-21,22/11/2021,AA,  725 ,Promo Discount GT,History Data
+Nov-21,22/11/2021,EO,"  4,835 ",Promo Discount GT,History Data
+Nov-21,22/11/2021,G5,  978 ,,History Data
+Nov-21,22/11/2021,HM,  203 ,Promo Discount GT,History Data
+Nov-21,22/11/2021,MB,  1 ,,History Data
+Nov-21,22/11/2021,RM,"  1,101 ",Consumer Promo,History Data
+Nov-21,29/11/2021,AA,  510 ,Promo Discount GT,History Data
+Nov-21,29/11/2021,EO,"  4,893 ",Promo Discount GT,History Data
+Nov-21,29/11/2021,G5,"  1,010 ",,History Data
+Nov-21,29/11/2021,HM,  242 ,Promo Discount GT,History Data
+Nov-21,29/11/2021,MB,  3 ,,History Data
+Nov-21,29/11/2021,RM,  289 ,Consumer Promo,History Data
+Dec-21,6/12/2021,AA,  963 ,Promo Discount GT,History Data
+Dec-21,6/12/2021,EO,"  6,794 ",Promo Discount GT,History Data
+Dec-21,6/12/2021,G5,"  2,705 ",,History Data
+Dec-21,6/12/2021,HM,  283 ,Promo Discount GT,History Data
+Dec-21,6/12/2021,MB,  1 ,,History Data
+Dec-21,6/12/2021,RM,  407 ,,History Data
+Dec-21,13/12/2021,AA,  914 ,Promo Discount GT,History Data
+Dec-21,13/12/2021,EO,"  5,500 ",Promo Discount GT,History Data
+Dec-21,13/12/2021,G5,"  3,177 ",,History Data
+Dec-21,13/12/2021,HM,  207 ,Promo Discount GT,History Data
+Dec-21,13/12/2021,MB,  2 ,,History Data
+Dec-21,13/12/2021,RM,  378 ,,History Data
+Dec-21,20/12/2021,AA,  476 ,Promo Discount GT,History Data
+Dec-21,20/12/2021,EO,"  10,027 ",Promo Discount GT,History Data
+Dec-21,20/12/2021,G5,"  1,248 ",,History Data
+Dec-21,20/12/2021,HM,  370 ,Promo Discount GT,History Data
+Dec-21,20/12/2021,MB,  2 ,Consumer Promo,History Data
+Dec-21,20/12/2021,RM,  360 ,Promo Discount GT,History Data
+Dec-21,27/12/2021,AA,  489 ,Promo Discount GT,History Data
+Dec-21,27/12/2021,EO,"  8,049 ",Promo Discount GT,History Data
+Dec-21,27/12/2021,G5,"  1,258 ",,History Data
+Dec-21,27/12/2021,HM,  223 ,Promo Discount GT,History Data
+Dec-21,27/12/2021,MB,  2 ,Consumer Promo,History Data
+Dec-21,27/12/2021,RM,  546 ,Promo Discount GT,History Data
+Jan-22,3/1/2022,AA,  458 ,Promo Discount GT,History Data
+Jan-22,3/1/2022,EO,"  6,368 ",Promo Discount GT,History Data
+Jan-22,3/1/2022,G5,"  3,359 ",,History Data
+Jan-22,3/1/2022,HM,  552 ,Promo Discount GT,History Data
+Jan-22,3/1/2022,MB,  4 ,Consumer Promo,History Data
+Jan-22,3/1/2022,RM,  504 ,Promo Discount GT + Target Drive,History Data
+Jan-22,10/1/2022,AA,  395 ,Promo Discount GT,History Data
+Jan-22,10/1/2022,EO,"  6,891 ",Promo Discount GT,History Data
+Jan-22,10/1/2022,G5,"  2,327 ",,History Data
+Jan-22,10/1/2022,HM,  393 ,Promo Discount GT,History Data
+Jan-22,10/1/2022,MB,  1 ,Consumer Promo,History Data
+Jan-22,10/1/2022,RM,  545 ,Promo Discount GT + Target Drive,History Data
+Jan-22,17/1/2022,AA,  734 ,Promo Discount GT + Target Drive,History Data
+Jan-22,17/1/2022,EO,"  4,349 ",Promo Discount GT,History Data
+Jan-22,17/1/2022,G5,"  1,250 ",,History Data
+Jan-22,17/1/2022,HM,  678 ,Promo Discount GT,History Data
+Jan-22,17/1/2022,MB,  2 ,,History Data
+Jan-22,17/1/2022,RM,  472 ,Consumer Promo,History Data
+Jan-22,24/1/2022,AA,  575 ,Promo Discount GT + Target Drive,History Data
+Jan-22,24/1/2022,EO,"  7,283 ",Promo Discount GT,History Data
+Jan-22,24/1/2022,G5,"  2,454 ",,History Data
+Jan-22,24/1/2022,HM,  386 ,Promo Discount GT,History Data
+Jan-22,24/1/2022,MB,  2 ,,History Data
+Jan-22,24/1/2022,RM,  31 ,Consumer Promo,History Data
+Jan-22,31/1/2022,AA,  309 ,Promo Discount GT + Target Drive,History Data
+Jan-22,31/1/2022,EO,"  6,176 ",Promo Discount GT,History Data
+Jan-22,31/1/2022,G5,"  3,335 ",,History Data
+Jan-22,31/1/2022,HM,  921 ,Promo Discount GT,History Data
+Jan-22,31/1/2022,MB,  1 ,,History Data
+Jan-22,31/1/2022,RM,  682 ,Consumer Promo,History Data
+Feb-22,7/2/2022,AA,  320 ,Promo Discount GT,History Data
+Feb-22,7/2/2022,EO,"  5,124 ",Promo Discount GT,History Data
+Feb-22,7/2/2022,G5,"  2,556 ",,History Data
+Feb-22,7/2/2022,HM,  132 ,Promo Discount GT,History Data
+Feb-22,7/2/2022,MB,  4 ,Consumer Promo,History Data
+Feb-22,7/2/2022,RM,  157 ,Consumer Promo,History Data
+Feb-22,14/2/2022,AA,  273 ,Promo Discount GT,History Data
+Feb-22,14/2/2022,EO,"  6,940 ",Promo Discount GT,History Data
+Feb-22,14/2/2022,G5,"  2,247 ",,History Data
+Feb-22,14/2/2022,HM,  376 ,Promo Discount GT,History Data
+Feb-22,14/2/2022,MB,  3 ,Consumer Promo,History Data
+Feb-22,14/2/2022,RM,  253 ,Consumer Promo,History Data
+Feb-22,21/2/2022,AA,  528 ,Promo Discount GT,History Data
+Feb-22,21/2/2022,EO,"  7,262 ",Promo Discount GT,History Data
+Feb-22,21/2/2022,G5,"  2,218 ",,History Data
+Feb-22,21/2/2022,HM,  417 ,Promo Discount GT,History Data
+Feb-22,21/2/2022,MB,  2 ,Consumer Promo,History Data
+Feb-22,21/2/2022,RM,  533 ,Consumer Promo,History Data
+Feb-22,28/2/2022,AA,  400 ,Promo Discount GT,History Data
+Feb-22,28/2/2022,EO,"  5,731 ",Promo Discount GT,History Data
+Feb-22,28/2/2022,G5,"  5,418 ",,History Data
+Feb-22,28/2/2022,HM,  123 ,Promo Discount GT,History Data
+Feb-22,28/2/2022,MB,  -   ,Consumer Promo,History Data
+Feb-22,28/2/2022,RM,  908 ,Consumer Promo,History Data
+Mar-22,7/3/2022,AA,  505 ,Promo Discount GT,History Data
+Mar-22,7/3/2022,EO,"  8,646 ",Promo Discount GT,History Data
+Mar-22,7/3/2022,G5,  661 ,,History Data
+Mar-22,7/3/2022,HM,  317 ,Promo Discount GT,History Data
+Mar-22,7/3/2022,MB,  1 ,,History Data
+Mar-22,7/3/2022,RM,  201 ,Consumer Promo,History Data
+Mar-22,14/3/2022,AA,  816 ,Promo Discount GT,History Data
+Mar-22,14/3/2022,EO,"  8,986 ",Promo Discount GT,History Data
+Mar-22,14/3/2022,G5,"  2,118 ",,History Data
+Mar-22,14/3/2022,HM,  513 ,Promo Discount GT,History Data
+Mar-22,14/3/2022,MB,  1 ,,History Data
+Mar-22,14/3/2022,RM,  437 ,Consumer Promo,History Data
+Mar-22,21/3/2022,AA,  565 ,Promo Discount GT,History Data
+Mar-22,21/3/2022,EO,"  12,874 ",Promo Discount GT,History Data
+Mar-22,21/3/2022,G5,"  5,656 ",,History Data
+Mar-22,21/3/2022,HM,  421 ,Promo Discount GT,History Data
+Mar-22,21/3/2022,MB,  -   ,,History Data
+Mar-22,21/3/2022,RM,  304 ,Consumer Promo,History Data
+Mar-22,28/3/2022,AA,  697 ,Promo Discount GT,History Data
+Mar-22,28/3/2022,EO,"  11,549 ",Promo Discount GT,History Data
+Mar-22,28/3/2022,G5,"  4,919 ",,History Data
+Mar-22,28/3/2022,HM,  343 ,Promo Discount GT,History Data
+Mar-22,28/3/2022,MB,  1 ,,History Data
+Mar-22,28/3/2022,RM,  571 ,Consumer Promo,History Data
+Apr-22,4/4/2022,AA,  722 ,Promo Discount GT,History Data
+Apr-22,4/4/2022,EO,"  10,248 ",Promo Discount GT,History Data
+Apr-22,4/4/2022,G5,"  4,238 ",,History Data
+Apr-22,4/4/2022,HM,  478 ,Promo Discount GT,History Data
+Apr-22,4/4/2022,MB,  1 ,Consumer Promo,History Data
+Apr-22,4/4/2022,RM,  620 ,Promo Discount GT,History Data
+Apr-22,11/4/2022,AA,"  1,068 ",Promo Discount GT,History Data
+Apr-22,11/4/2022,EO,"  15,608 ",Promo Discount GT,History Data
+Apr-22,11/4/2022,G5,"  5,876 ",,History Data
+Apr-22,11/4/2022,HM,"  1,184 ",Promo Discount GT,History Data
+Apr-22,11/4/2022,MB,  -   ,Consumer Promo,History Data
+Apr-22,11/4/2022,RM,"  1,296 ",Promo Discount GT,History Data
+Apr-22,18/4/2022,AA,"  1,092 ",Promo Discount GT,History Data
+Apr-22,18/4/2022,EO,"  18,303 ",Promo Discount GT,History Data
+Apr-22,18/4/2022,G5,"  17,235 ",,History Data
+Apr-22,18/4/2022,HM,  682 ,Promo Discount GT,History Data
+Apr-22,18/4/2022,MB,  1 ,,History Data
+Apr-22,18/4/2022,RM,  931 ,Promo Discount GT,History Data
+Apr-22,25/4/2022,AA,  373 ,Promo Discount GT,History Data
+Apr-22,25/4/2022,EO,"  4,454 ",Promo Discount GT,History Data
+Apr-22,25/4/2022,G5,"  7,086 ",,History Data
+Apr-22,25/4/2022,HM,  143 ,Promo Discount GT,History Data
+Apr-22,25/4/2022,MB,  -   ,,History Data
+Apr-22,25/4/2022,RM,  729 ,Promo Discount GT,History Data
+May-22,2/5/2022,AA,  203 ,Promo Discount GT,History Data
+May-22,2/5/2022,EO,"  2,781 ",Promo Discount GT,History Data
+May-22,2/5/2022,G5,"  3,054 ",,History Data
+May-22,2/5/2022,HM,  3 ,Promo Discount GT,History Data
+May-22,2/5/2022,MB,  -   ,Consumer Promo,History Data
+May-22,2/5/2022,RM,  67 ,Promo Kasir MT,History Data
+May-22,9/5/2022,AA,  850 ,Promo Discount GT,History Data
+May-22,9/5/2022,EO,"  13,866 ",Promo Discount GT,History Data
+May-22,9/5/2022,G5,"  3,113 ",,History Data
+May-22,9/5/2022,HM,  385 ,Promo Discount GT,History Data
+May-22,9/5/2022,MB,  2 ,Consumer Promo,History Data
+May-22,9/5/2022,RM,  316 ,Promo Kasir MT,History Data
+May-22,16/5/2022,AA,  698 ,Promo Discount GT,History Data
+May-22,16/5/2022,EO,"  10,951 ",Promo Discount GT,History Data
+May-22,16/5/2022,G5,"  1,363 ",,History Data
+May-22,16/5/2022,HM,  573 ,Promo Discount GT,History Data
+May-22,16/5/2022,MB,  1 ,,History Data
+May-22,16/5/2022,RM,  55 ,Promo Discount GT,History Data
+May-22,23/5/2022,AA,  550 ,Promo Discount GT,History Data
+May-22,23/5/2022,EO,"  11,515 ",Promo Discount GT,History Data
+May-22,23/5/2022,G5,"  3,064 ",,History Data
+May-22,23/5/2022,HM,  483 ,Promo Discount GT,History Data
+May-22,23/5/2022,MB,  -   ,,History Data
+May-22,23/5/2022,RM,"  1,553 ",Promo Discount GT,History Data
+May-22,30/5/2022,AA,  491 ,Promo Discount GT,History Data
+May-22,30/5/2022,EO,"  11,114 ",Promo Discount GT,History Data
+May-22,30/5/2022,G5,"  1,997 ",,History Data
+May-22,30/5/2022,HM,  294 ,Promo Discount GT,History Data
+May-22,30/5/2022,MB,  -   ,,History Data
+May-22,30/5/2022,RM,  77 ,Promo Discount GT,History Data
+Jun-22,6/6/2022,AA,  543 ,Promo Discount GT,History Data
+Jun-22,6/6/2022,EO,"  10,512 ",Promo Discount GT,History Data
+Jun-22,6/6/2022,G5,"  1,295 ",,History Data
+Jun-22,6/6/2022,HM,  303 ,Promo Discount GT,History Data
+Jun-22,6/6/2022,MB,  -   ,Consumer Promo,History Data
+Jun-22,6/6/2022,RM,  271 ,Promo Discount GT,History Data
+Jun-22,13/6/2022,AA,  311 ,Promo Discount GT,History Data
+Jun-22,13/6/2022,EO,"  8,585 ",Promo Discount GT,History Data
+Jun-22,13/6/2022,G5,  486 ,,History Data
+Jun-22,13/6/2022,HM,  183 ,Promo Discount GT,History Data
+Jun-22,13/6/2022,MB,  1 ,Consumer Promo,History Data
+Jun-22,13/6/2022,RM,  186 ,Promo Discount GT,History Data
+Jun-22,20/6/2022,AA,  346 ,Promo Discount GT,History Data
+Jun-22,20/6/2022,EO,"  8,710 ",Promo Discount GT,History Data
+Jun-22,20/6/2022,G5,  396 ,,History Data
+Jun-22,20/6/2022,HM,  69 ,Promo Discount GT,History Data
+Jun-22,20/6/2022,MB,  -   ,,History Data
+Jun-22,20/6/2022,RM,  332 ,Consumer Promo,History Data
+Jun-22,27/6/2022,AA,  349 ,Promo Discount GT,History Data
+Jun-22,27/6/2022,EO,"  9,491 ",Promo Discount GT,History Data
+Jun-22,27/6/2022,G5,"  1,180 ",,History Data
+Jun-22,27/6/2022,HM,  185 ,Promo Discount GT,History Data
+Jun-22,27/6/2022,MB,  -   ,,History Data
+Jun-22,27/6/2022,RM,  475 ,Consumer Promo,History Data
+Jul-22,4/7/2022,AA,  379 ,,History Data
+Jul-22,4/7/2022,EO,"  9,380 ",,History Data
+Jul-22,4/7/2022,G5,"  1,245 ",,History Data
+Jul-22,4/7/2022,HM,  239 ,,History Data
+Jul-22,4/7/2022,MB,  1 ,Consumer Promo,History Data
+Jul-22,4/7/2022,RM,  401 ,Promo Discount GT,History Data
+Jul-22,11/7/2022,AA,  530 ,,History Data
+Jul-22,11/7/2022,EO,"  9,148 ",,History Data
+Jul-22,11/7/2022,G5,"  6,580 ",,History Data
+Jul-22,11/7/2022,HM,  212 ,,History Data
+Jul-22,11/7/2022,MB,  1 ,Consumer Promo,History Data
+Jul-22,11/7/2022,RM,  601 ,Promo Discount GT,History Data
+Jul-22,18/7/2022,AA,  541 ,,History Data
+Jul-22,18/7/2022,EO,"  9,878 ",,History Data
+Jul-22,18/7/2022,G5,  333 ,,History Data
+Jul-22,18/7/2022,HM,  204 ,,History Data
+Jul-22,18/7/2022,MB,  1 ,,History Data
+Jul-22,18/7/2022,RM,  463 ,Consumer Promo,History Data
+Jul-22,25/7/2022,AA,  385 ,,History Data
+Jul-22,25/7/2022,EO,"  9,803 ",,History Data
+Jul-22,25/7/2022,G5,  804 ,,History Data
+Jul-22,25/7/2022,HM,  150 ,,History Data
+Jul-22,25/7/2022,MB,  7 ,,History Data
+Jul-22,25/7/2022,RM,  149 ,Consumer Promo,History Data
+Aug-22,1/8/2022,AA,  758 ,,History Data
+Aug-22,1/8/2022,EO,"  9,676 ",,History Data
+Aug-22,1/8/2022,G5,  600 ,,History Data
+Aug-22,1/8/2022,HM,  216 ,,History Data
+Aug-22,1/8/2022,MB,  3 ,,History Data
+Aug-22,1/8/2022,RM,  228 ,Promo Discount GT,History Data
+Aug-22,8/8/2022,AA,  385 ,,History Data
+Aug-22,8/8/2022,EO,"  11,421 ",,History Data
+Aug-22,8/8/2022,G5,"  2,072 ",,History Data
+Aug-22,8/8/2022,HM,  416 ,,History Data
+Aug-22,8/8/2022,MB,  1 ,,History Data
+Aug-22,8/8/2022,RM,  144 ,Promo Discount GT,History Data
+Aug-22,15/8/2022,AA,,,Forecast
+Aug-22,15/8/2022,EO,,,Forecast
+Aug-22,15/8/2022,G5,,,Forecast
+Aug-22,15/8/2022,HM,,,Forecast
+Aug-22,15/8/2022,MB,,,Forecast
+Aug-22,15/8/2022,RM,,Promo Discount GT,Forecast
+Aug-22,22/8/2022,AA,,,Forecast
+Aug-22,22/8/2022,EO,,,Forecast
+Aug-22,22/8/2022,G5,,,Forecast
+Aug-22,22/8/2022,HM,,,Forecast
+Aug-22,22/8/2022,MB,,Consumer Promo,Forecast
+Aug-22,22/8/2022,RM,,Consumer Promo,Forecast
+Aug-22,29/8/2022,AA,,,Forecast
+Aug-22,29/8/2022,EO,,,Forecast
+Aug-22,29/8/2022,G5,,,Forecast
+Aug-22,29/8/2022,HM,,,Forecast
+Aug-22,29/8/2022,MB,,Consumer Promo,Forecast
+Aug-22,29/8/2022,RM,,Consumer Promo,Forecast
+Sep-22,5/9/2022,AA,,,Forecast
+Sep-22,5/9/2022,EO,,,Forecast
+Sep-22,5/9/2022,G5,,,Forecast
+Sep-22,5/9/2022,HM,,,Forecast
+Sep-22,5/9/2022,MB,,Consumer Promo,Forecast
+Sep-22,5/9/2022,RM,,Promo Discount GT,Forecast
+Sep-22,12/9/2022,AA,,,Forecast
+Sep-22,12/9/2022,EO,,,Forecast
+Sep-22,12/9/2022,G5,,,Forecast
+Sep-22,12/9/2022,HM,,,Forecast
+Sep-22,12/9/2022,MB,,Consumer Promo,Forecast
+Sep-22,12/9/2022,RM,,Promo Discount GT,Forecast
+Sep-22,19/9/2022,AA,,,Forecast
+Sep-22,19/9/2022,EO,,,Forecast
+Sep-22,19/9/2022,G5,,,Forecast
+Sep-22,19/9/2022,HM,,,Forecast
+Sep-22,19/9/2022,MB,,,Forecast
+Sep-22,19/9/2022,RM,,Promo Discount GT,Forecast
+Sep-22,26/9/2022,AA,,,Forecast
+Sep-22,26/9/2022,EO,,,Forecast
+Sep-22,26/9/2022,G5,,,Forecast
+Sep-22,26/9/2022,HM,,,Forecast
+Sep-22,26/9/2022,MB,,,Forecast
+Sep-22,26/9/2022,RM,,Promo Discount GT,Forecast
+Oct-22,3/10/2022,AA,,,Forecast
+Oct-22,3/10/2022,EO,,,Forecast
+Oct-22,3/10/2022,G5,,,Forecast
+Oct-22,3/10/2022,HM,,,Forecast
+Oct-22,3/10/2022,MB,,Consumer Promo,Forecast
+Oct-22,3/10/2022,RM,,Promo Discount GT,Forecast
+Oct-22,10/10/2022,AA,,,Forecast
+Oct-22,10/10/2022,EO,,,Forecast
+Oct-22,10/10/2022,G5,,,Forecast
+Oct-22,10/10/2022,HM,,,Forecast
+Oct-22,10/10/2022,MB,,Consumer Promo,Forecast
+Oct-22,10/10/2022,RM,,Promo Discount GT,Forecast
+Oct-22,17/10/2022,AA,,,Forecast
+Oct-22,17/10/2022,EO,,,Forecast
+Oct-22,17/10/2022,G5,,,Forecast
+Oct-22,17/10/2022,HM,,,Forecast
+Oct-22,17/10/2022,MB,,,Forecast
+Oct-22,17/10/2022,RM,,Consumer Promo,Forecast
+Oct-22,24/10/2022,AA,,,Forecast
+Oct-22,24/10/2022,EO,,,Forecast
+Oct-22,24/10/2022,G5,,,Forecast
+Oct-22,24/10/2022,HM,,,Forecast
+Oct-22,24/10/2022,MB,,,Forecast
+Oct-22,24/10/2022,RM,,Consumer Promo,Forecast
+Oct-22,31/10/2022,AA,,,Forecast
+Oct-22,31/10/2022,EO,,,Forecast
+Oct-22,31/10/2022,G5,,,Forecast
+Oct-22,31/10/2022,HM,,,Forecast
+Oct-22,31/10/2022,MB,,,Forecast
+Oct-22,31/10/2022,RM,,Consumer Promo,Forecast
+Nov-22,7/11/2022,AA,,,Forecast
+Nov-22,7/11/2022,EO,,,Forecast
+Nov-22,7/11/2022,G5,,,Forecast
+Nov-22,7/11/2022,HM,,,Forecast
+Nov-22,7/11/2022,MB,,Consumer Promo,Forecast
+Nov-22,7/11/2022,RM,,Promo Discount GT,Forecast
+Nov-22,14/11/2022,AA,,,Forecast
+Nov-22,14/11/2022,EO,,,Forecast
+Nov-22,14/11/2022,G5,,,Forecast
+Nov-22,14/11/2022,HM,,,Forecast
+Nov-22,14/11/2022,MB,,Consumer Promo,Forecast
+Nov-22,14/11/2022,RM,,Promo Discount GT,Forecast
+Nov-22,21/11/2022,AA,,,Forecast
+Nov-22,21/11/2022,EO,,,Forecast
+Nov-22,21/11/2022,G5,,,Forecast
+Nov-22,21/11/2022,HM,,,Forecast
+Nov-22,21/11/2022,MB,,,Forecast
+Nov-22,21/11/2022,RM,,,Forecast
+Nov-22,28/11/2022,AA,,,Forecast
+Nov-22,28/11/2022,EO,,,Forecast
+Nov-22,28/11/2022,G5,,,Forecast
+Nov-22,28/11/2022,HM,,,Forecast
+Nov-22,28/11/2022,MB,,,Forecast
+Nov-22,28/11/2022,RM,,,Forecast
+Dec-22,5/12/2022,AA,,,Forecast
+Dec-22,5/12/2022,EO,,,Forecast
+Dec-22,5/12/2022,G5,,,Forecast
+Dec-22,5/12/2022,HM,,,Forecast
+Dec-22,5/12/2022,MB,,Consumer Promo,Forecast
+Dec-22,5/12/2022,RM,,Consumer Promo,Forecast
+Dec-22,12/12/2022,AA,,,Forecast
+Dec-22,12/12/2022,EO,,,Forecast
+Dec-22,12/12/2022,G5,,,Forecast
+Dec-22,12/12/2022,HM,,,Forecast
+Dec-22,12/12/2022,MB,,Consumer Promo,Forecast
+Dec-22,12/12/2022,RM,,Consumer Promo,Forecast
+Dec-22,19/12/2022,AA,,,Forecast
+Dec-22,19/12/2022,EO,,,Forecast
+Dec-22,19/12/2022,G5,,,Forecast
+Dec-22,19/12/2022,HM,,,Forecast
+Dec-22,19/12/2022,MB,,,Forecast
+Dec-22,19/12/2022,RM,,Consumer Promo,Forecast
+Dec-22,26/12/2022,AA,,,Forecast
+Dec-22,26/12/2022,EO,,,Forecast
+Dec-22,26/12/2022,G5,,,Forecast
+Dec-22,26/12/2022,HM,,,Forecast
+Dec-22,26/12/2022,MB,,,Forecast
+Dec-22,26/12/2022,RM,,Consumer Promo,Forecast
